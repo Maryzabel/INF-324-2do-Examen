@@ -1,0 +1,29 @@
+.titulo{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 8%;
+}
+
+.boton{
+    color: blue;
+    width: 150px;
+    height: 55px;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 45%;
+    border-radius: 8px;
+}
+
+.boton2{
+    color: blue;
+    width: 150px;
+    height: 55px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 8px;
+}
+
+.boton3{
+margin-left: 90%;
+}
+
